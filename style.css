@@ -1,0 +1,56 @@
+body {
+
+  background-image:url('images/topography.png');
+
+}
+
+#p1 {
+  color: blue;
+}
+
+#navbar-image{
+    margin-top: 5px;
+    width: 5%;
+    height: auto;
+  }
+
+#float-div {
+  float: right;
+    margin-top: 15px;
+}
+
+#navbar-image{
+    margin-top: 5px;
+    width: 8%;
+    height: auto;
+}
+
+#float-div a{
+ margin-right: 20px;
+ font-size: 30px;
+
+}
+
+p {
+  text-align: center;
+}
+
+#p1 {
+  text-align: left;
+}
+
+nav {
+  background-color: lightblue;
+}
+
+
+.navbar-div {
+  display: inline;
+}
+
+#img2 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+}
